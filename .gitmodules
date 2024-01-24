@@ -1,0 +1,3 @@
+[submodule "GuildSaber_CSharp_Client"]
+	path = GuildSaber_CSharp_Client
+	url = https://github.com/GuildSaber/GuildSaber_CSharp_Client.git

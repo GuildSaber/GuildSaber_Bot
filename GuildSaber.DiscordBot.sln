@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuildSaber.DiscordBot", "GuildSaber.DiscordBot\GuildSaber.DiscordBot.csproj", "{1100C3DB-103E-47C5-92B1-0DC9C6687E9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuildSaber.Client", "GuildSaber_CSharp_Client\GuildSaber.Client\GuildSaber.Client.csproj", "{8767D74C-6B01-49C4-906E-0C5593BB4AA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuildSaber.Models", "GuildSaber_CSharp_Client\GuildSaber_Models\GuildSaber.Models.csproj", "{2D8BA2E4-8656-40B2-A7C7-0829157B9021}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1100C3DB-103E-47C5-92B1-0DC9C6687E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1100C3DB-103E-47C5-92B1-0DC9C6687E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1100C3DB-103E-47C5-92B1-0DC9C6687E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1100C3DB-103E-47C5-92B1-0DC9C6687E9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8767D74C-6B01-49C4-906E-0C5593BB4AA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8767D74C-6B01-49C4-906E-0C5593BB4AA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8767D74C-6B01-49C4-906E-0C5593BB4AA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8767D74C-6B01-49C4-906E-0C5593BB4AA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D8BA2E4-8656-40B2-A7C7-0829157B9021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D8BA2E4-8656-40B2-A7C7-0829157B9021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D8BA2E4-8656-40B2-A7C7-0829157B9021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D8BA2E4-8656-40B2-A7C7-0829157B9021}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
